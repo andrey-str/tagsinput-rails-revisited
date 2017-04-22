@@ -1,5 +1,5 @@
 module Tagsinput
   module Rails
-    VERSION = '1.3.5.1'
+    VERSION = '2.0'
   end
 end
