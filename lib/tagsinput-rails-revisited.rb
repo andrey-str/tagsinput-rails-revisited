@@ -1,4 +1,4 @@
-require 'tagsinput-rails/version'
+require 'tagsinput-rails-revisited/version'
 
 module Tagsinput
   module Rails
