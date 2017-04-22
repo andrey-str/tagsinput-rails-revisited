@@ -1,4 +1,4 @@
-# tagsinput-rails-revisisted
+# tagsinput-rails-revisited
 
 Original credits goes to [Roman Greshnoy](https://github.com/greshny)
 
@@ -31,7 +31,7 @@ Add to your app/assets/stylesheets/application.scss
 
 ## Versioning
 
-tagsinput-rails-revisisted 2.0 == jQuery-Tags-Input-revisisted 2.0
+tagsinput-rails-revisited 2.0 == jQuery-Tags-Input-revisited 2.0
 
 Every attempt is made to mirror the currently shipping jQuery-Tags-Input-Revisited version number wherever possible.
 The major, minor, and patch version numbers will always represent the jQuery-Tags-Input version. Should a gem
